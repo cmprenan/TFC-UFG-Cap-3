@@ -1,5 +1,5 @@
 # Geometria Analítica para ML
-Este trabalho apresenta conceitos de Geometria Analítica pra ML, contendo os seguintes documentos:
+Este trabalho apresenta conceitos de Geometria Analítica para ML, contendo os seguintes documentos:
 
 * **Relatório:** Arquivo em formato PDF contendo o relatório do trabalho.
 * **Videoaula:** Apresentação dos principais conceitos de Geometria Analítica em um vídeo organizado em capítulos e disponível no *YouTube* pelo link https://youtu.be/XIJF3vJR708.
